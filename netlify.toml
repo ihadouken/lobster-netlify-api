@@ -1,3 +1,5 @@
+[dev]
+  autoLaunch = false
 [[redirects]]
   from = "/decrypt"
   to = "/.netlify/functions/decrypt"
